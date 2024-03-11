@@ -54,8 +54,3 @@ The function does the following:
 
 
 <img width="797" alt="Ekran Resmi 2023-02-23 01 18 04" src="https://user-images.githubusercontent.com/120671243/222950201-ecb9ddcc-9ba3-41b8-aa54-082039837281.png">
-
-
-## License
-
-This code is licensed under the MIT license.
